@@ -5,7 +5,7 @@ function Parent(props) {
   return (
     <div>
       Parent
-      <Child numb = {props.numb}>
+      <Child >
 
       </Child>
     </div>
